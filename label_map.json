@@ -1,0 +1,11 @@
+item {
+    name: "red_buoy"
+    label: 0
+    display_name: "red_buoy"
+}
+
+item {
+    name: "green_buoy"
+    label: 1
+    display_name: "green_buoy"
+}
